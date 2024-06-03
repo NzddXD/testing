@@ -59,7 +59,7 @@
               $angka_1 = $_POST['angka_1'];
               $angka_2 = $_POST['angka_2'];
               $operator_jum = $_POST['operator'];
-
+              // I like ya cut g
               // OPERASI ARITMATIKA BEGIN
               switch ($operator_jum) {
                 case "tambah":
